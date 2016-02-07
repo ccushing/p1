@@ -11,14 +11,14 @@ A photo and name is included in the web site. The web page is using the Twitter 
 
 ## Live URL for P1
 
-[P1 Live URL](http://p1.cscie15-ccushing.com/).
+[P1 Live URL](http://p1.cscie15-ccushing.com/)
 
-[Github Repository URL](https://github.com/ccushing/p1).
+[Github Repository URL](https://github.com/ccushing/p1)
 
 
 ## Screen Cast for P1
 
-[Screencast URL](http://p1.cscie15-ccushing.com/).
+[Screencast URL](http://p1.cscie15-ccushing.com/)
 
 
 ## Outside Code / Libraries used
