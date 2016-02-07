@@ -17,7 +17,7 @@ A photo and name is included in the web site. The web page is using the Twitter 
 
 
 ## Screen Cast for P1
-
+This video has been uploaded to YouTube. You should be able to view it in 1080p from the selector in the lower right hand corner.
 [Screencast URL](https://youtu.be/-Lq7yc39Rmk)
 
 
