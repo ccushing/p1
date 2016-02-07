@@ -18,7 +18,7 @@ A photo and name is included in the web site. The web page is using the Twitter 
 
 ## Screen Cast for P1
 
-[Screencast URL](http://p1.cscie15-ccushing.com/)
+[Screencast URL](https://youtu.be/-Lq7yc39Rmk)
 
 
 ## Outside Code / Libraries used
